@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Subscription Card</string>
+    <string name="one_tick_button">Check One</string>
+    <string name="multi_tick_button">Check Multiple</string>
+    <string name="back_button">Back</string>
+</resources>
